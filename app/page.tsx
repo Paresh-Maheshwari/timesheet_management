@@ -1,5 +1,5 @@
-import { Layout } from '../components/Layout'
-import { Timesheet } from '../components/Timesheet'
+import { Layout } from './components/Layout'
+import { Timesheet } from './components/Timesheet'
 
 export default function Home() {
   return (
@@ -8,4 +8,3 @@ export default function Home() {
     </Layout>
   )
 }
-
